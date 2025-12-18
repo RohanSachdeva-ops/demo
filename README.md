@@ -1,3 +1,4 @@
 # demo
-This is my first git repository
-Authot-rohan sachdeva
+This is my First git Repository
+<br>
+Author-Rohan Sachdeva
